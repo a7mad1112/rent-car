@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/rent-car/static/css/main.a811f4d4.css",
+    "main.js": "/rent-car/static/js/main.f2b1ce67.js",
+    "static/media/remixicon.svg?t=1590207869815": "/rent-car/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/rent-car/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/rent-car/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/ava-1.jpg": "/rent-car/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/rent-car/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/rent-car/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/ava-4.jpg": "/rent-car/static/media/ava-4.5f15524f7b3f80a834df.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/rent-car/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/bmw-offer.png": "/rent-car/static/media/bmw-offer.ecfb9ac1bf7b5ef615a6.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/rent-car/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/blog-1.jpg": "/rent-car/static/media/blog-1.e4949dd1d3e0ec0543c5.jpg",
+    "static/media/slider-2.jpg": "/rent-car/static/media/slider-2.4cd97469474175a97a63.jpg",
+    "static/media/slider-3.jpg": "/rent-car/static/media/slider-3.ed96ff21726e81c10f40.jpg",
+    "static/media/nissan-offer.png": "/rent-car/static/media/nissan-offer.6eddc86310b7cac538ae.png",
+    "static/media/blog-2.jpg": "/rent-car/static/media/blog-2.dce2eeb8549652564638.jpg",
+    "static/media/toyota-offer-2.png": "/rent-car/static/media/toyota-offer-2.861de085d1c782df9e9d.png",
+    "static/media/offer-toyota.png": "/rent-car/static/media/offer-toyota.4b2435e447a7832d9f4a.png",
+    "static/media/mercedes-offer.png": "/rent-car/static/media/mercedes-offer.d177a4fe9e2002ddb24d.png",
+    "static/media/blog-3.jpg": "/rent-car/static/media/blog-3.0cd3766389d5b56badaa.jpg",
+    "static/media/slider-1.jpg": "/rent-car/static/media/slider-1.df185de6fe26ce7346f2.jpg",
+    "static/media/drive.jpg": "/rent-car/static/media/drive.b72e6f2d1ccdbd6550a9.jpg",
+    "static/media/slick.svg": "/rent-car/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/rent-car/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/rent-car/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/rent-car/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/rent-car/index.html",
+    "main.a811f4d4.css.map": "/rent-car/static/css/main.a811f4d4.css.map",
+    "main.f2b1ce67.js.map": "/rent-car/static/js/main.f2b1ce67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a811f4d4.css",
+    "static/js/main.f2b1ce67.js"
+  ]
+}
