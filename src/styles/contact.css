@@ -1,0 +1,26 @@
+
+.social__link-icon {
+    color: #000d6b;
+    font-weight: 600;
+    font-style: 1.2rem;
+}
+
+.contact__btn {
+    padding: 7px 15px;
+    background: #000d6b !important;
+    color: #fff !important;
+    outline: none;
+    border-radius: 5px;
+}
+
+.contact__form input:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+@media only screen and (max-width: 768px) {
+    .contact__btn {
+        margin-bottom: 40px;
+        font-size: 0.8rem
+    }
+}
