@@ -95,7 +95,7 @@ const BlogDetails = () => {
                       className="w-25 rounded-2"
                     />
                     <h6>
-                      <Link to={`/rent-car/blogs/${item.title}`}>{item.title}</Link>
+                      <Link to={`/blogs/${item.title}`}>{item.title}</Link>
                     </h6>
                   </div>
                 </div>

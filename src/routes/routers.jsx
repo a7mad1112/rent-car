@@ -12,16 +12,16 @@ import Contact from '../pages/Contact';
 const Routers = () => {
     return (
         <Routes>
-            {/* <Route path='/' element={<Navigate to='/home'/>} /> */}
-            <Route path='/rent-car' element={<Navigate to='rent-car/home'/>} />
-            <Route path='/rent-car/home' element={<Home/>} />
-            <Route path='/rent-car/about' element={<About/>} />
-            <Route path='/rent-car/Cars' element={<CarListing/>} />
-            <Route path='/rent-car/Cars/:slug' element={<CarDetails/>} />
-            <Route path='/rent-car/Blogs' element={<Blog/>} />
-            <Route path='/rent-car/Blogs/:slug' element={<BlogDetails/>} />
-            <Route path='/rent-car/contact' element={<Contact/>} />
-            <Route path='/rent-car/*' element={<NotFound/>} />
+            {/* <Route path='/' element={<Navigate to='/'/>} /> */}
+            {/* <Route path='/rent-car' element={<Navigate to='/home'/>} /> */}
+            <Route path='/' element={<Home/>} />
+            <Route path='/about' element={<About/>} />
+            <Route path='/Cars' element={<CarListing/>} />
+            <Route path='/Cars/:slug' element={<CarDetails/>} />
+            <Route path='/Blogs' element={<Blog/>} />
+            <Route path='/Blogs/:slug' element={<BlogDetails/>} />
+            <Route path='/contact' element={<Contact/>} />
+            <Route path='/*' element={<NotFound/>} />
         </Routes>
     )
 }
