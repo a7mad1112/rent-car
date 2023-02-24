@@ -18,13 +18,13 @@ const BlogItem = ({item}) => {
         <div className="blog__item">
             <img src={imgUrl} alt="blog-img" className='w-100' />
             <div className="blog__info p-3">
-                <Link className='blog__title' to={`/blogs/${title}`}>{title}</Link>
+                <Link className='blog__title' to={`/rent-car/blogs/${title}`}>{title}</Link>
                 <p className="section__description mt-3">
                     {
                         description.length > 100 ? description.substr(0, 100) : description
                     }
                 </p>
-                <Link className='blog__read-more' to={`/blogs/${title}`}>Read More</Link>
+                <Link className='blog__read-more' to={`/rent-car/blogs/${title}`}>Read More</Link>
                 <div className="blog__time pt-3 mt-3 d-flex align-items-center justify-content-between">
                     <span className="blog__author">
                         <i className="ri-user-line"></i> {author}

@@ -6,7 +6,7 @@ import '../../styles/footer.css';
 
 const quickLinks = [
   {
-    path: '/about',
+    path: '/rent-car/about',
     display: 'About'
   },
   {
@@ -14,15 +14,15 @@ const quickLinks = [
     display: 'Privacy Policy'
   },
   {
-    path: '/cars',
+    path: '/rent-car/cars',
     display: 'Car Listing'
   },
   {
-    path: '/blogs',
+    path: '/rent-car/blogs',
     display: 'Blog'
   },
   {
-    path: '/contact',
+    path: '/rent-car/contact',
     display: 'Contact'
   },
 ];
@@ -36,7 +36,7 @@ const Footer = () => {
         <Col lg='4' md='4' sm='12'>
           <div className="logo footer__logo">
             <h1>
-              <Link  to='/home' className=' d-flex align-items-center justify-content-start gap-3'>
+              <Link  to='/rent-car/home' className=' d-flex align-items-center justify-content-start gap-3'>
                 <i className="ri-car-line"></i>
                 <span>
                   Rent Car <br/>Service

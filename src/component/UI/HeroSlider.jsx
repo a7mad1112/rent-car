@@ -25,7 +25,7 @@ const HeroSlider = () => {
                     <h1 className='text-light mb-4'>Reverse Now and Get 50% Off</h1>
 
                     <button className='btn reverse__btn mt-5'>
-                        <Link to='/cars'>Reverse Now</Link>
+                        <Link to='/rent-car/cars'>Reverse Now</Link>
                     </button>
                 </div>
             </Container>
@@ -38,7 +38,7 @@ const HeroSlider = () => {
                     <h1 className='text-light mb-4'>Reverse Now and Get 50% Off</h1>
 
                     <button className='btn reverse__btn mt-5'>
-                        <Link to='/cars'>Reverse Now</Link>
+                        <Link to='/rent-car/cars'>Reverse Now</Link>
                     </button>
                 </div>
             </Container>
@@ -51,7 +51,7 @@ const HeroSlider = () => {
                     <h1 className='text-light mb-4'>Reverse Now and Get 50% Off</h1>
 
                     <button className='btn reverse__btn mt-5'>
-                        <Link to='/cars'>Reverse Now</Link>
+                        <Link to='/rent-car/cars'>Reverse Now</Link>
                     </button>
                 </div>
             </Container>

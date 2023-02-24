@@ -6,23 +6,23 @@ import '../../styles/header.css';
 
 const navLinks = [
   {
-    path: '/home',
+    path: '/rent-car/home',
     display: 'Home'
   },
   {
-    path: '/about',
+    path: '/rent-car/about',
     display: 'About'
   },
   {
-    path: '/cars',
+    path: '/rent-car/cars',
     display: 'Cars'
   },
   {
-    path: '/blogs',
+    path: '/rent-car/blogs',
     display: 'Blog'
   },
   {
-    path: '/contact',
+    path: '/rent-car/contact',
     display: 'Contact'
   },
 ];
@@ -63,7 +63,7 @@ const Header = () => {
           <Col lg='4' md='3' sm='4'>
             <div className="logo">
               <h1>
-                <Link to='/home' className=' d-flex align-items-center justify-content-start gap-3'>
+                <Link to='/rent-car/home' className=' d-flex align-items-center justify-content-start gap-3'>
                   <i className="ri-car-line"></i>
                   <span>
                     Rent Car <br/>Service
@@ -94,7 +94,7 @@ const Header = () => {
 
           <Col lg='2' md='3' sm='0' className=' d-flex justify-content-end align-items-center'>
             <button className="header__btn btn">
-              <Link to='/contact'>
+              <Link to='/rent-car/contact'>
                 <i className="ri-phone-line"></i>
                 Request a Call
               </Link>
